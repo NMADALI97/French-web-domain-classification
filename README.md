@@ -15,7 +15,7 @@ This work aims to systematically evaluate recent advanced graph embedding techni
 The code can also be applied to graphs in other domains (e.g., social networks, citation networks).
 
 ## 2. Pipeline
-![alt text](img/pipeline.png "Pipeline")
+![alt text](pipeline.png "Pipeline")
 
 Fig. 1: Pipeline for applying graph embedding methods to biomedical tasks. Low-dimensional node
             representations are
